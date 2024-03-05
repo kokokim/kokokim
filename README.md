@@ -24,8 +24,9 @@
 </div>
 <br>
 
-<div>
-  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=instagram&logoColor=#E4405F"/></a>
+<div align="center">
+<!--   노션, 메일 -->
+  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/ssona-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
 
 
