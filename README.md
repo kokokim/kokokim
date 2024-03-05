@@ -21,8 +21,7 @@
 </div>
 
 <div align="center">
-<!--   <img src="https://github.com/kokokim/kokokim/blob/output/github-contribution-grid-snake.svg" width=98%/> -->
-  <img src="https://github.com/kokokim/kokokim/blob/output/github-snake-dark.svg" width="100%">
+  <img src="https://github.com/kokokim/kokokim/blob/output/github-snake-dark.svg" width="98%">
 </div>
 
 <div align="center">
