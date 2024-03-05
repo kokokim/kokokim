@@ -26,9 +26,11 @@
 
 <div align="center">
 <!--   노션, 메일 -->
-  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/ssona-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ssona_._._814/" target="_blank"><img src="https://img.shields.io/badge/ssona-000000?style=flat-square&logo=Instagram&logoColor=E4405F"/></a>
+  <a href="https://sseona814.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="mailto:seona918@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
 </div>
-
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
