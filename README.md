@@ -5,7 +5,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Seonah+Kim;I+dream+to+be+an+AI+Developer" alt="Typing SVG" /></a>
 </div>
 <br>
-<br>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -23,6 +22,12 @@
 <div align="center">
   <img src="https://github.com/kokokim/kokokim/blob/output/github-snake-dark.svg" width="98%">
 </div>
+<br>
+
+<div>
+  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=instagram&logoColor=#E4405F"/></a>
+</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
